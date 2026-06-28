@@ -5,7 +5,7 @@ This repository automatically syncs and documents all my accepted CodeChef solut
 ---
 
 ##How it Works
-Every file and folder in this repository is dynamically deployed and maintained completely hands-free by my custom tool: **[CodeHub](https://github.com/gthub-mohit/CODEHUB)**.
+Every file and folder in this repository is dynamically deployed and maintained completely hands-free by my custom tool: **[CodeHub](https://github.com/gthub-mohit/CODE-HUB)**.
 
 * **Automation:** Captures code from Monaco Editor instantly on submit click and fires the GitHub REST API.
 * **Structure:** Organizes code chronologically into date-wise folders (`DD-MM-YY/`).
