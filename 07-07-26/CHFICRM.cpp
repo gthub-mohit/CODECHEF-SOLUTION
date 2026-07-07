@@ -8,6 +8,22 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
+        cin >> n;
+        vector<int> arr(n); 
+        for (int k = 0; k < n; k++) {
+            cin >> arr[k];
+        }
+        int count5 = 0; 
+        int count10 = 0; 
+        bool possible = true;
+        for (int k = 0; k < n; k++) {
+            if (arr[k] == 5) {
+                count5++;
+            } 
+            else if (arr[k] == 10) {
+                if (count5 > 0) {
+                    count5--;  
+                    count10++; 
                 } else {
                     possible = false;
                     break; 
@@ -20,17 +36,3 @@
                 else if (count5 >= 2) {
                     count5 -= 2; 
                 } 
-                else {
-                    possible = false;
-                    break;
-                }
-            }
-        }
-        if (possible) {
-            cout << "YES"<<endl;
-        } else {
-            cout << "NO"<<endl;
-        }
-    }
-    return 0;
-}
