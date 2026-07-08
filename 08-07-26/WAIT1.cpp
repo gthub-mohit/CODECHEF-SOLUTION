@@ -16,12 +16,12 @@ int main(){
     while(i--){
         int n;
         cin>>n;
-        vector<int> arr(n);
+        vector<long long> arr(n);
         for(int k=0;k<n;k++){
             cin>>arr[k];
         }
-        int ans = 0;
-        int curr_time = arr[0];
+        long long ans = 0;
+        long long curr_time = arr[0];
         for(int k=1;k<n;k++){
             curr_time = max(curr_time,arr[k]);
             ans += (curr_time-arr[k]);
