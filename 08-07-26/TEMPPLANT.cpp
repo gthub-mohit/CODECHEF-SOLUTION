@@ -21,7 +21,7 @@ int main(){
             cin>>arr[k];
         }
         int maxi=0;
-        for(int k=0;k<n;k++){
+        for(int k=0;k<n-1;k++){
             int curr=min(arr[k+1] , arr[k]);
             maxi=max(maxi  , curr);
         }
