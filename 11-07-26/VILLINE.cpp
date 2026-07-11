@@ -11,16 +11,16 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-    int n;
+    long long n;
     cin>>n;
-    int m , c;
+    long long m , c;
     cin>>m>>c;
     int p1=0;
     int p2=0;
     for(int k=0;k<n;k++){
-        int x , y , p;
+        long long x , y , p;
         cin>>x>>y>>p;
-        int divison=y-m*x-c;
+        long long divison=y-m*x-c;
         if(divison>0)p1+=p;
         else p2+=p;
     }
