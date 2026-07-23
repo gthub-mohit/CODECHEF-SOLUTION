@@ -25,7 +25,7 @@ int main(){
             else cout<<"NO"<<endl;
         }
         else {
-            if(find(arr.begin() , arr.end() , z) != arr.end())cout<<"YES"<<endl;
+            if(find(arr.begin() , arr.end()-1, z) != arr.end()-1)cout<<"YES"<<endl;
             else cout<<"NO"<<endl;
         }
     }
