@@ -5,3 +5,4 @@
 | # | Problem | Language | Solution |
 |---|---------|----------|----------|
 | 1 | [EQSARRAY](https://www.codechef.com/problems/EQSARRAY) | C++​ | [EQSARRAY.cpp](./EQSARRAY.cpp) |
+| 2 | [EQSARRAY](https://www.codechef.com/problems/EQSARRAY?tab=statement) | C++​ | [EQSARRAY.cpp](./EQSARRAY.cpp) |
