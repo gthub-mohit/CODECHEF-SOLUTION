@@ -4,7 +4,7 @@
  ║  Platform : CodeChef                                                  ║
  ║  Status   : Accepted                                                    ║
  ║  Date     : July 23, 2026                                               ║
- ║  URL      : https://www.codechef.com/problems/EQSARRAY                  ║
+ ║  URL      : https://www.codechef.com/problems/EQSARRAY?tab=statement    ║
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
@@ -14,14 +14,20 @@ int main(){
     int i;
     cin>>i;
     while(i--){
-        int n , k;
-        cin>>n>>k;
-        vector<int> arr(n);
+        long long n , z;
+        cin>>n>>z;
+        vector<long long> arr(n);
         for(int k=0;k<n;k++){
             cin>>arr[k];
         }
-        if(find(arr.begin() , arr.end() , k) != arr.end())cout<<"YES"<<endl;
-        else cout<<"NO"<<endl;
+        if(n==1){
+            if(arr[0]==z)cout<<"YES"<<endl;
+            else cout<<"NO"<<endl;
+        }
+        else {
+            if(find(arr.begin() , arr.end() , z) != arr.end())cout<<"YES"<<endl;
+            else cout<<"NO"<<endl;
+        }
     }
     return 0;
 }
