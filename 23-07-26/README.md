@@ -8,3 +8,4 @@
 | 2 | [EQSARRAY](https://www.codechef.com/problems/EQSARRAY?tab=statement) | C++​ | [EQSARRAY.cpp](./EQSARRAY.cpp) |
 | 3 | [EQSARRAY](https://www.codechef.com/problems/EQSARRAY?tab=statement) | C++​ | [EQSARRAY.cpp](./EQSARRAY.cpp) |
 | 4 | [ANTIPAL](https://www.codechef.com/problems/ANTIPAL) | C++​ | [ANTIPAL.cpp](./ANTIPAL.cpp) |
+| 5 | [CHEFCHR](https://www.codechef.com/problems/CHEFCHR?tab=submissions) | C++​ | [CHEFCHR.cpp](./CHEFCHR.cpp) |
