@@ -16,14 +16,17 @@ int main(){
     while(i--){
         int n , x;
         cin>>n>>x;
-        if(x%3==0){cout<<"YES"<<endl;cout<<x/3<<" "<<0<<" "<<n-(x/3)<<endl;}
-        else if(x%3==1){
+        if(x%3==0 && (x/3)<=n){
+            cout<<"YES"<<endl;
+            cout<<x/3<<" "<<0<<" "<<n-(x/3)<<endl;
+        }
+        else if(x%3==1 && ((x+2)/3 + 2)<=n){
             cout<<"YES"<<endl;
             cout<<(x+2)/3<<" "<<2<<" "<<n-2-((x+2)/3)<<endl;
         }
-        else if(x%3==2){
+        else if(x%3==2 && ((x+1)/3 + 1)<=n){
             cout<<"YES"<<endl;
-            cout<<(x+1)/3<<" "<<1<<n-1<<" "<<((x+1)/3)<<endl;
+            cout<<(x+1)/3<<" "<<1<<" "<<n-1-((x+1)/3)<<endl;
         }
         else cout<<"NO"<<endl;
     }
