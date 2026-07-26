@@ -7,3 +7,4 @@
 | 1 | [SUMPERM](https://www.codechef.com/problems/SUMPERM?tab=statement) | C++​ | [SUMPERM.cpp](./SUMPERM.cpp) |
 | 2 | [SSCRIPT](https://www.codechef.com/problems/SSCRIPT) | C++​ | [SSCRIPT.cpp](./SSCRIPT.cpp) |
 | 3 | [GENIUS](https://www.codechef.com/problems/GENIUS) | C++​ | [GENIUS.cpp](./GENIUS.cpp) |
+| 4 | [GENIUS](https://www.codechef.com/problems/GENIUS) | C++​ | [GENIUS.cpp](./GENIUS.cpp) |
