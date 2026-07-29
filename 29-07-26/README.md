@@ -12,3 +12,4 @@
 | 6 | [GPUBUY](https://www.codechef.com/START249C/problems/GPUBUY) | C++​ | [GPUBUY.cpp](./GPUBUY.cpp) |
 | 7 | [GPUBUY](https://www.codechef.com/START249C/problems/GPUBUY) | C++​ | [GPUBUY.cpp](./GPUBUY.cpp) |
 | 8 | [UPDWPAL](https://www.codechef.com/START249C/problems/UPDWPAL) | C++​ | [UPDWPAL.cpp](./UPDWPAL.cpp) |
+| 9 | [UPDWPAL](https://www.codechef.com/START249C/problems/UPDWPAL) | C++​ | [UPDWPAL.cpp](./UPDWPAL.cpp) |
