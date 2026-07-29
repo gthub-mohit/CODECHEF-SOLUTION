@@ -14,3 +14,4 @@
 | 8 | [UPDWPAL](https://www.codechef.com/START249C/problems/UPDWPAL) | C++​ | [UPDWPAL.cpp](./UPDWPAL.cpp) |
 | 9 | [UPDWPAL](https://www.codechef.com/START249C/problems/UPDWPAL) | C++​ | [UPDWPAL.cpp](./UPDWPAL.cpp) |
 | 10 | [UPDWPAL](https://www.codechef.com/START249C/problems/UPDWPAL) | C++​ | [UPDWPAL.cpp](./UPDWPAL.cpp) |
+| 11 | [UPDWPAL](https://www.codechef.com/START249C/problems/UPDWPAL) | C++​ | [UPDWPAL.cpp](./UPDWPAL.cpp) |
