@@ -10,3 +10,4 @@
 | 4 | [PRDEXC](https://www.codechef.com/START249C/problems/PRDEXC) | C++​ | [PRDEXC.cpp](./PRDEXC.cpp) |
 | 5 | [PRDEXC](https://www.codechef.com/START249C/problems/PRDEXC) | C++​ | [PRDEXC.cpp](./PRDEXC.cpp) |
 | 6 | [GPUBUY](https://www.codechef.com/START249C/problems/GPUBUY) | C++​ | [GPUBUY.cpp](./GPUBUY.cpp) |
+| 7 | [GPUBUY](https://www.codechef.com/START249C/problems/GPUBUY) | C++​ | [GPUBUY.cpp](./GPUBUY.cpp) |
