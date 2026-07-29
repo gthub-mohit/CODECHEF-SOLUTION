@@ -8,31 +8,29 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
-#include<bits/stdc++.h>
-using namespace std;
-bool isPalindrome(vector<int> arr, int n){
-    for(int k=0; k<n/2; k++){
-        if(arr[k] != arr[n-1-k]){
-            return false;
         }
-    }
-    return true;
-}
-int main(){
-    int i;
-    cin>>i;
-    while(i--){
-        int n;
-        cin>>n;
-        vector<int> arr(n);
-        for(int k=0; k<n; k++){
-            cin>>arr[k];
+        if(x_cand1 == -1){
+            cout<<"Yes"<<endl;
+            continue;
         }
-        vector<int> candidates;
-        for(int k=0; k<n/2; k++){
-            if(arr[k] != arr[n - 1 - k]){
-                candidates.push_back(min(arr[k], arr[n - 1 - k]));
+        bool possible = false;
+        int cands[2] = {x_cand1, x_cand2};
+        for(int c=0; c<2; c++){
+            int x = cands[c];
+            vector<int> arr1 = arr;
+            for(int j=0; j<n; j++){
+                if(arr1[j] <= x) arr1[j]++;
+                else arr1[j]--;
+            }
+
+            if(isPalindrome(arr1, n)){
+                possible = true;
+                break;
             }
         }
-        if(candidates.empty()){
-            cout<<"Yes"<<endl;
+
+        if(possible) cout<<"Yes"<<endl;
+        else cout<<"No"<<endl;
+    }
+    return 0;
+}
