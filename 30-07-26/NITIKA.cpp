@@ -8,6 +8,7 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
+#include<bits/stdc++.h>
 using namespace std;
 int main(){
     int i;
@@ -27,8 +28,8 @@ int main(){
         }
         string last=name.back();
         last[0] = toupper(last[0]);
-        for(int k=1;k<=last.length();k++){
-            last[k]==tolower(last[k]);
+        for(int k=1;k<last.length();k++){
+            last[k]=tolower(last[k]);
         }
         cout<<last<<endl;
     }
