@@ -5,3 +5,4 @@
 | # | Problem | Language | Solution |
 |---|---------|----------|----------|
 | 1 | [NITIKA](https://www.codechef.com/problems/NITIKA?tab=statement) | C++​ | [NITIKA.cpp](./NITIKA.cpp) |
+| 2 | [NITIKA](https://www.codechef.com/problems/NITIKA?tab=statement) | C++​ | [NITIKA.cpp](./NITIKA.cpp) |
