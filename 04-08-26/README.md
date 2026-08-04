@@ -5,3 +5,4 @@
 | # | Problem | Language | Solution |
 |---|---------|----------|----------|
 | 1 | [ISPAR](https://www.codechef.com/problems/ISPAR?tab=submissions) | C++​ | [ISPAR.cpp](./ISPAR.cpp) |
+| 2 | [DISPAL](https://www.codechef.com/problems/DISPAL) | C++​ | [DISPAL.cpp](./DISPAL.cpp) |
