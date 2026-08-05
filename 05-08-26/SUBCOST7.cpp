@@ -4,20 +4,25 @@
  ║  Platform : CodeChef                                                  ║
  ║  Status   : Accepted                                                    ║
  ║  Date     : August 5, 2026                                              ║
- ║  URL      : https://www.codechef.com/START250B/problems/SUBCOST7        ║
+ ║  URL      : https://www.codechef.com/START250C/problems/SUBCOST7        ║
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
 #include<bits/stdc++.h>
+
 using namespace std;
-int main(){
+int main() {
     int i;
-    cin>>i;
-    while(i--){
-        int n , x , y;
-        cin>>n>>x>>y;
-        if(n<=3)cout<<n*x<<endl;
-        else cout<<3*x+(n-3)*y<<endl;
+    cin >> i;
+    while (i--) {
+        int N, X, Y;
+        cin >> N >> X >> Y;
+
+        if (N <= 3) {
+            cout << N * X << endl;
+        } else {
+            cout << 3 * X + (N - 3) * Y << endl;
+        }
     }
     return 0;
 }
