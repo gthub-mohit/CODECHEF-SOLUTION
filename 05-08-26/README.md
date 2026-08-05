@@ -14,3 +14,4 @@
 | 8 | [BISHOPMV](https://www.codechef.com/START250C/problems/BISHOPMV) | C++​ | [BISHOPMV.cpp](./BISHOPMV.cpp) |
 | 9 | [SUBCOST7](https://www.codechef.com/START250C/problems/SUBCOST7) | C++​ | [SUBCOST7.cpp](./SUBCOST7.cpp) |
 | 10 | [PPT](https://www.codechef.com/START250C/problems/PPT) | C++​ | [PPT.cpp](./PPT.cpp) |
+| 11 | [JUMPCOST](https://www.codechef.com/START250C/problems/JUMPCOST) | C++​ | [JUMPCOST.cpp](./JUMPCOST.cpp) |
