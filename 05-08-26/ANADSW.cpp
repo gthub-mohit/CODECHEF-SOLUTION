@@ -21,7 +21,8 @@ int main(){
             cin>>arr[k];
         }
         if(n==3){
-            if((arr[0]>=arr[1] )&& (arr[0]>=arr[2])&& (arr[2]<arr[1]))cout<<"YES"<<endl;
+            if((arr[0]>=arr[1] )&& (arr[0]>=arr[2])&& (arr[2]<=arr[1]))cout<<"YES"<<endl
+                ;
             else cout<<"NO"<<endl;
         }
         else if(n==2){
