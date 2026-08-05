@@ -25,7 +25,7 @@ int main(){
             else cout<<"NO"<<endl;
         }
         else if(n==2){
-            if(arr[1]<=arr[0])cout<<"NO"<<endl;
+            if(arr[1]<arr[0])cout<<"NO"<<endl;
             else cout<<"YES"<<endl;
         }
         else cout<<"YES"<<endl;
