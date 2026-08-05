@@ -11,3 +11,4 @@
 | 5 | [SUBCOST7](https://www.codechef.com/START250B/problems/SUBCOST7) | C++​ | [SUBCOST7.cpp](./SUBCOST7.cpp) |
 | 6 | [SUBCOST7](https://www.codechef.com/START250B/problems/SUBCOST7) | C++​ | [SUBCOST7.cpp](./SUBCOST7.cpp) |
 | 7 | [BISHOPMV](https://www.codechef.com/START250C/problems/BISHOPMV) | C++​ | [BISHOPMV.cpp](./BISHOPMV.cpp) |
+| 8 | [BISHOPMV](https://www.codechef.com/START250C/problems/BISHOPMV) | C++​ | [BISHOPMV.cpp](./BISHOPMV.cpp) |
