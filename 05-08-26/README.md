@@ -8,3 +8,4 @@
 | 2 | [ANADSW](https://www.codechef.com/problems/ANADSW?tab=statement) | C++​ | [ANADSW.cpp](./ANADSW.cpp) |
 | 3 | [ANADSW](https://www.codechef.com/problems/ANADSW?tab=statement) | C++​ | [ANADSW.cpp](./ANADSW.cpp) |
 | 4 | [TAVISUAL](https://www.codechef.com/problems/TAVISUAL?tab=statement) | C++​ | [TAVISUAL.cpp](./TAVISUAL.cpp) |
+| 5 | [SUBCOST7](https://www.codechef.com/START250B/problems/SUBCOST7) | C++​ | [SUBCOST7.cpp](./SUBCOST7.cpp) |
