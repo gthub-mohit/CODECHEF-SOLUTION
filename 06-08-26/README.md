@@ -5,3 +5,4 @@
 | # | Problem | Language | Solution |
 |---|---------|----------|----------|
 | 1 | [JUMPCOST](https://www.codechef.com/START250C/problems/JUMPCOST) | C++​ | [JUMPCOST.cpp](./JUMPCOST.cpp) |
+| 2 | [JUMPCOST](https://www.codechef.com/problems/JUMPCOST) | C++​ | [JUMPCOST.cpp](./JUMPCOST.cpp) |
