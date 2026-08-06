@@ -4,7 +4,7 @@
  ║  Platform : CodeChef                                                  ║
  ║  Status   : Accepted                                                    ║
  ║  Date     : August 6, 2026                                              ║
- ║  URL      : https://www.codechef.com/START250C/problems/JUMPCOST        ║
+ ║  URL      : https://www.codechef.com/problems/JUMPCOST                  ║
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
