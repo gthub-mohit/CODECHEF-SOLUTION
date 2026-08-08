@@ -8,6 +8,12 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int i;
+    cin>>i;
+    while(i--){
         int n;
         cin>>n;
         vector<int> a(n);
@@ -16,20 +22,14 @@
         }
         int z;
         cin>>z;
-        vector<int> b(z);
+        unordered_set<int> set;
         for(int k=0;k<z;k++){
-            cin>>b[k];
+            int x;
+            cin>>x;
+            set.insert(x);
         }
-        vector<int> c;
-        for(int k=0;k<n;k++){
-        bool found=false;
-            for(int j=0;j<z;j++){
-                if(a[k]==b[j]){found=true; break;}
-            }
-            if(!found)c.push_back(a[k]);
-        }
-        for(auto it : c){
-            cout<<it<<" ";
+        for(int x : a){
+            if(!set.count(x))cout<<x<<" ";
         }
         cout<<endl;
     }
