@@ -8,3 +8,4 @@
 | 2 | [MINSM](https://www.codechef.com/problems/MINSM) | C++​ | [MINSM.cpp](./MINSM.cpp) |
 | 3 | [MINSM](https://www.codechef.com/problems/MINSM) | C++​ | [MINSM.cpp](./MINSM.cpp) |
 | 4 | [DISCHAR](https://www.codechef.com/problems/DISCHAR) | C++​ | [DISCHAR.cpp](./DISCHAR.cpp) |
+| 5 | [DISCHAR](https://www.codechef.com/problems/DISCHAR) | C++​ | [DISCHAR.cpp](./DISCHAR.cpp) |
