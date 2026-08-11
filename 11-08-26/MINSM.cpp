@@ -24,7 +24,8 @@ int main(){
         for(int k=0;k<n-1;k++){
             x=gcd( x , a[k]);
         }
-        cout<<n*x<<endl;
+        long long ans = 1ll*n*x;
+        cout<<ans<<endl;
     }
     return 0;
 }
