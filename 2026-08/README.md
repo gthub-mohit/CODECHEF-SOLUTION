@@ -9,3 +9,4 @@
 | 3 | [BUSROW](https://www.codechef.com/START251C/problems/BUSROW) | C++​ | [BUSROW.cpp](./BUSROW.cpp) |
 | 4 | [MUL123](https://www.codechef.com/START251C/problems/MUL123) | C++​ | [MUL123.cpp](./MUL123.cpp) |
 | 5 | [MUL123](https://www.codechef.com/START251C/problems/MUL123) | C++​ | [MUL123.cpp](./MUL123.cpp) |
+| 6 | [CHOCGM](https://www.codechef.com/START251C/problems/CHOCGM) | C++​ | [CHOCGM.cpp](./CHOCGM.cpp) |
