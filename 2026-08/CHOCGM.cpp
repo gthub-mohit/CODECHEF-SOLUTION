@@ -16,21 +16,17 @@ int main(){
     while(i--){
         int n;
         cin>>n;
-        vector<int> arr(n);
-        int choco=0;
-        int odd=0;
+        long long s=0, odd=0;
         for(int k=0;k<n;k++){
-            cin>>arr[k];
-            if(arr[k]%2==0) choco+=arr[k];
-            else{
-                choco+=arr[k]-1;
-                odd++;
-            }
+            int x;
+            cin>>x;
+            s+=x;
+            if(x%2!=0) odd++;
         }
-        int total=choco+odd;
-        if(total%2==0 && odd>0) choco++;
-        cout<<choco<<endl;
+        long long ans;
+        if(s%2==0) ans=s-odd/2;
+        else ans=odd/2;
+        cout<<ans<<endl;
     }
-
     return 0;
 }
