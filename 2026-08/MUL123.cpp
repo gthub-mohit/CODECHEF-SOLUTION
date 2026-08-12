@@ -8,7 +8,6 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
-
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
@@ -17,16 +16,20 @@ int main(){
     while(i--){
         int n;
         cin>>n;
-        int ans=100;
-        for(int i=0;i<=10;i++){
-            int x=n+i;
-            if(x%3==0)
-                ans=min(ans,i);
-            int next=((x/5)+1)*5;
-            if(next%3==0)
-                ans=min(ans,i+1);
+        int x=n;
+        int count1=0;
+        while(x%3!=0){
+            x++;
+            count1++;
         }
-        cout<<ans<<endl;
+        x=n;
+        int count2=1;
+        x=((x/5)+1)*5;
+        while(x%3!=0){
+            x++;
+            count2++;
+        }
+        cout<<min(count1,count2)<<endl;
     }
     return 0;
 }
