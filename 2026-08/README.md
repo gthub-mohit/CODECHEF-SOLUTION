@@ -11,3 +11,4 @@
 | 5 | [MUL123](https://www.codechef.com/START251C/problems/MUL123) | C++​ | [MUL123.cpp](./MUL123.cpp) |
 | 6 | [CHOCGM](https://www.codechef.com/START251C/problems/CHOCGM) | C++​ | [CHOCGM.cpp](./CHOCGM.cpp) |
 | 7 | [CHOCGM](https://www.codechef.com/START251C/problems/CHOCGM) | C++​ | [CHOCGM.cpp](./CHOCGM.cpp) |
+| 8 | [PINS](https://www.codechef.com/problems/PINS?tab=statement) | C++​ | [PINS.cpp](./PINS.cpp) |
