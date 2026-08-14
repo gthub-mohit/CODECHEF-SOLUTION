@@ -16,18 +16,18 @@ int main(){
     while(i--){
         long long n , j;
         cin>>n>>j;
-        vector<int> a(n);
-        for(int k=0;k<n;k++){
+        vector<long long> a(n);
+        for(long long k=0;k<n;k++){
             cin>>a[k];
             a[k]=j/a[k];
         }
-        vector<int> b(n);
-        for(int k=0;k<n;k++){
+        vector<long long> b(n);
+        for(long long k=0;k<n;k++){
             cin>>b[k];
         }
-        int maxi=0;
-        for(int k=0;k<n;k++){
-            int product=a[k]*b[k];
+        long long maxi=0;
+        for(long long k=0;k<n;k++){
+            long long product=a[k]*b[k];
             maxi=max(maxi , product);
         }
         cout<<maxi<<endl;
