@@ -12,3 +12,4 @@
 | 6 | [CHOCGM](https://www.codechef.com/START251C/problems/CHOCGM) | C++​ | [CHOCGM.cpp](./CHOCGM.cpp) |
 | 7 | [CHOCGM](https://www.codechef.com/START251C/problems/CHOCGM) | C++​ | [CHOCGM.cpp](./CHOCGM.cpp) |
 | 8 | [PINS](https://www.codechef.com/problems/PINS?tab=statement) | C++​ | [PINS.cpp](./PINS.cpp) |
+| 9 | [CHEFSTON](https://www.codechef.com/problems/CHEFSTON) | C++​ | [CHEFSTON.cpp](./CHEFSTON.cpp) |
