@@ -14,3 +14,4 @@
 | 8 | [PINS](https://www.codechef.com/problems/PINS?tab=statement) | C++​ | [PINS.cpp](./PINS.cpp) |
 | 9 | [CHEFSTON](https://www.codechef.com/problems/CHEFSTON) | C++​ | [CHEFSTON.cpp](./CHEFSTON.cpp) |
 | 10 | [CHEFSTON](https://www.codechef.com/problems/CHEFSTON) | C++​ | [CHEFSTON.cpp](./CHEFSTON.cpp) |
+| 11 | [CHEFSTON](https://www.codechef.com/problems/CHEFSTON) | C++​ | [CHEFSTON.cpp](./CHEFSTON.cpp) |
