@@ -17,3 +17,4 @@
 | 11 | [CHEFSTON](https://www.codechef.com/problems/CHEFSTON) | C++​ | [CHEFSTON.cpp](./CHEFSTON.cpp) |
 | 12 | [PROBDIFF](https://www.codechef.com/problems/PROBDIFF) | C++​ | [PROBDIFF.cpp](./PROBDIFF.cpp) |
 | 13 | [DIVBYK](https://www.codechef.com/problems/DIVBYK) | C++​ | [DIVBYK.cpp](./DIVBYK.cpp) |
+| 14 | [DIVBYK](https://www.codechef.com/problems/DIVBYK) | C++​ | [DIVBYK.cpp](./DIVBYK.cpp) |
