@@ -21,3 +21,4 @@
 | 15 | [MAKEPALAGAIN](https://www.codechef.com/problems/MAKEPALAGAIN?tab=statement) | C++​ | [MAKEPALAGAIN.cpp](./MAKEPALAGAIN.cpp) |
 | 16 | [MRSWAP](https://www.codechef.com/START252C/problems/MRSWAP) | C++​ | [MRSWAP.cpp](./MRSWAP.cpp) |
 | 17 | [ODDEVEN7](https://www.codechef.com/START252C/problems/ODDEVEN7) | C++​ | [ODDEVEN7.cpp](./ODDEVEN7.cpp) |
+| 18 | [SKIPONE](https://www.codechef.com/START252C/problems/SKIPONE) | C++​ | [SKIPONE.cpp](./SKIPONE.cpp) |
