@@ -19,3 +19,4 @@
 | 13 | [DIVBYK](https://www.codechef.com/problems/DIVBYK) | C++​ | [DIVBYK.cpp](./DIVBYK.cpp) |
 | 14 | [DIVBYK](https://www.codechef.com/problems/DIVBYK) | C++​ | [DIVBYK.cpp](./DIVBYK.cpp) |
 | 15 | [MAKEPALAGAIN](https://www.codechef.com/problems/MAKEPALAGAIN?tab=statement) | C++​ | [MAKEPALAGAIN.cpp](./MAKEPALAGAIN.cpp) |
+| 16 | [MRSWAP](https://www.codechef.com/START252C/problems/MRSWAP) | C++​ | [MRSWAP.cpp](./MRSWAP.cpp) |
