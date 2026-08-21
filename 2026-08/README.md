@@ -24,3 +24,4 @@
 | 18 | [SKIPONE](https://www.codechef.com/START252C/problems/SKIPONE) | C++​ | [SKIPONE.cpp](./SKIPONE.cpp) |
 | 19 | [MEXMAX7](https://www.codechef.com/START252C/problems/MEXMAX7) | C++​ | [MEXMAX7.cpp](./MEXMAX7.cpp) |
 | 20 | [TICKETS5](https://www.codechef.com/problems/TICKETS5?tab=statement) | C++​ | [TICKETS5.cpp](./TICKETS5.cpp) |
+| 21 | [ACBALL](https://www.codechef.com/problems/ACBALL) | C++​ | [ACBALL.cpp](./ACBALL.cpp) |
