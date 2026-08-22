@@ -26,3 +26,4 @@
 | 20 | [TICKETS5](https://www.codechef.com/problems/TICKETS5?tab=statement) | C++​ | [TICKETS5.cpp](./TICKETS5.cpp) |
 | 21 | [ACBALL](https://www.codechef.com/problems/ACBALL) | C++​ | [ACBALL.cpp](./ACBALL.cpp) |
 | 22 | [MINDIST1](https://www.codechef.com/problems/MINDIST1) | C++​ | [MINDIST1.cpp](./MINDIST1.cpp) |
+| 23 | [LEXOPAL](https://www.codechef.com/problems/LEXOPAL) | C++​ | [LEXOPAL.cpp](./LEXOPAL.cpp) |
