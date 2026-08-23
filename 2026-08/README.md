@@ -29,3 +29,4 @@
 | 23 | [LEXOPAL](https://www.codechef.com/problems/LEXOPAL) | C++​ | [LEXOPAL.cpp](./LEXOPAL.cpp) |
 | 24 | [SUMOFPROD1](https://www.codechef.com/problems/SUMOFPROD1?tab=ide) | C++​ | [SUMOFPROD1.cpp](./SUMOFPROD1.cpp) |
 | 25 | [EOEO](https://www.codechef.com/problems/EOEO?tab=statement) | C++​ | [EOEO.cpp](./EOEO.cpp) |
+| 26 | [EOEO](https://www.codechef.com/problems/EOEO?tab=statement) | C++​ | [EOEO.cpp](./EOEO.cpp) |
