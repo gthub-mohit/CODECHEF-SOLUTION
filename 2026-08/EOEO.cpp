@@ -18,20 +18,14 @@ int main(){
         cin>>ts;
         if(ts%2==1) cout<<ts/2<<endl;
         else{
-            int low=0;
-            int high=60;
-            int k=0;
-            while(low<=high){
-                int mid=(low + high) / 2;
-                long long p=1LL<<mid;
-                if(ts%p==0){
-                    k = mid;
-                    low = mid + 1;
-                }
-                else high=mid-1;
+            long long xs=ts;
+            long long z=1;
+            while(xs%2==0){
+                xs/=2;
+                z*=2;
             }
-            long long p=1LL<<(k+1);
-            cout<<ts/p<<endl;
+            z*=2;
+            cout<<ts/z<<endl;
         }
     }
     return 0;
