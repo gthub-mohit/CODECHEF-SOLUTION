@@ -3,8 +3,8 @@
  ║  Problem  : ARYAGRID                                                    ║
  ║  Platform : CodeChef                                                    ║
  ║  Status   : Accepted                                                    ║
- ║  Date     : August 24, 2026                                             ║
- ║  URL      : https://www.codechef.com/problems/ARYAGRID?tab=statement    ║
+ ║  Date     : August 25, 2026                                             ║
+ ║  URL      : https://www.codechef.com/problems/ARYAGRID                  ║
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
