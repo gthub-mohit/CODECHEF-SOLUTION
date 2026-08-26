@@ -31,3 +31,4 @@
 | 25 | [EOEO](https://www.codechef.com/problems/EOEO?tab=statement) | C++​ | [EOEO.cpp](./EOEO.cpp) |
 | 26 | [EOEO](https://www.codechef.com/problems/EOEO?tab=statement) | C++​ | [EOEO.cpp](./EOEO.cpp) |
 | 27 | [ARYAGRID](https://www.codechef.com/problems/ARYAGRID?tab=statement) | C++​ | [ARYAGRID.cpp](./ARYAGRID.cpp) |
+| 28 | [POSHOP](https://www.codechef.com/START253C/problems/POSHOP) | C++​ | [POSHOP.cpp](./POSHOP.cpp) |
