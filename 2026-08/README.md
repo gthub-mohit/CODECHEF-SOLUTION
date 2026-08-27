@@ -34,3 +34,4 @@
 | 28 | [POSHOP](https://www.codechef.com/START253C/problems/POSHOP) | C++​ | [POSHOP.cpp](./POSHOP.cpp) |
 | 29 | [GRDJUMP](https://www.codechef.com/START253C/problems/GRDJUMP) | C++​ | [GRDJUMP.cpp](./GRDJUMP.cpp) |
 | 30 | [FLREV](https://www.codechef.com/START253C/problems/FLREV) | C++​ | [FLREV.cpp](./FLREV.cpp) |
+| 31 | [DEVUGRAP](https://www.codechef.com/problems/DEVUGRAP?tab=statement) | C++​ | [DEVUGRAP.cpp](./DEVUGRAP.cpp) |
