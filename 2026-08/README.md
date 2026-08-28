@@ -35,3 +35,4 @@
 | 29 | [GRDJUMP](https://www.codechef.com/START253C/problems/GRDJUMP) | C++​ | [GRDJUMP.cpp](./GRDJUMP.cpp) |
 | 30 | [FLREV](https://www.codechef.com/START253C/problems/FLREV) | C++​ | [FLREV.cpp](./FLREV.cpp) |
 | 31 | [DEVUGRAP](https://www.codechef.com/problems/DEVUGRAP?tab=statement) | C++​ | [DEVUGRAP.cpp](./DEVUGRAP.cpp) |
+| 32 | [COVSPRD](https://www.codechef.com/problems/COVSPRD) | C++​ | [COVSPRD.cpp](./COVSPRD.cpp) |
