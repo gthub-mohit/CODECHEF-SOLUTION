@@ -37,3 +37,4 @@
 | 31 | [DEVUGRAP](https://www.codechef.com/problems/DEVUGRAP?tab=statement) | C++​ | [DEVUGRAP.cpp](./DEVUGRAP.cpp) |
 | 32 | [COVSPRD](https://www.codechef.com/problems/COVSPRD) | C++​ | [COVSPRD.cpp](./COVSPRD.cpp) |
 | 33 | [LARGESUB](https://www.codechef.com/problems/LARGESUB) | C++​ | [LARGESUB.cpp](./LARGESUB.cpp) |
+| 34 | [EVALMAS](https://www.codechef.com/problems/EVALMAS) | C++​ | [EVALMAS.cpp](./EVALMAS.cpp) |
