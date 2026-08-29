@@ -38,3 +38,4 @@
 | 32 | [COVSPRD](https://www.codechef.com/problems/COVSPRD) | C++​ | [COVSPRD.cpp](./COVSPRD.cpp) |
 | 33 | [LARGESUB](https://www.codechef.com/problems/LARGESUB) | C++​ | [LARGESUB.cpp](./LARGESUB.cpp) |
 | 34 | [EVALMAS](https://www.codechef.com/problems/EVALMAS) | C++​ | [EVALMAS.cpp](./EVALMAS.cpp) |
+| 35 | [PERMGE2](https://www.codechef.com/problems/PERMGE2) | C++​ | [PERMGE2.cpp](./PERMGE2.cpp) |
