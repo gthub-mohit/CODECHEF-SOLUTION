@@ -40,3 +40,4 @@
 | 34 | [EVALMAS](https://www.codechef.com/problems/EVALMAS) | C++​ | [EVALMAS.cpp](./EVALMAS.cpp) |
 | 35 | [PERMGE2](https://www.codechef.com/problems/PERMGE2) | C++​ | [PERMGE2.cpp](./PERMGE2.cpp) |
 | 36 | [MIME2](https://www.codechef.com/problems/MIME2?tab=statement) | C++​ | [MIME2.cpp](./MIME2.cpp) |
+| 37 | [BUGCAL](https://www.codechef.com/problems/BUGCAL?tab=statement) | C++​ | [BUGCAL.cpp](./BUGCAL.cpp) |
