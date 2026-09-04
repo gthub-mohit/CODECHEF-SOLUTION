@@ -11,3 +11,4 @@
 | 5 | [MAXSUM77](https://www.codechef.com/START254C/problems/MAXSUM77) | C++​ | [MAXSUM77.cpp](./MAXSUM77.cpp) |
 | 6 | [GOODSUBSETEZ](https://www.codechef.com/START254C/problems/GOODSUBSETEZ) | C++​ | [GOODSUBSETEZ.cpp](./GOODSUBSETEZ.cpp) |
 | 7 | [BIGARRAY](https://www.codechef.com/problems/BIGARRAY) | C++​ | [BIGARRAY.cpp](./BIGARRAY.cpp) |
+| 8 | [XENRANK](https://www.codechef.com/problems/XENRANK) | C++​ | [XENRANK.cpp](./XENRANK.cpp) |
