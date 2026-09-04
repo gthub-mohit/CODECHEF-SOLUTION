@@ -10,3 +10,4 @@
 | 4 | [REACHWT](https://www.codechef.com/START254C/problems/REACHWT) | C++​ | [REACHWT.cpp](./REACHWT.cpp) |
 | 5 | [MAXSUM77](https://www.codechef.com/START254C/problems/MAXSUM77) | C++​ | [MAXSUM77.cpp](./MAXSUM77.cpp) |
 | 6 | [GOODSUBSETEZ](https://www.codechef.com/START254C/problems/GOODSUBSETEZ) | C++​ | [GOODSUBSETEZ.cpp](./GOODSUBSETEZ.cpp) |
+| 7 | [BIGARRAY](https://www.codechef.com/problems/BIGARRAY) | C++​ | [BIGARRAY.cpp](./BIGARRAY.cpp) |
