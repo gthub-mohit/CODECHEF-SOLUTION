@@ -13,3 +13,4 @@
 | 7 | [BIGARRAY](https://www.codechef.com/problems/BIGARRAY) | C++​ | [BIGARRAY.cpp](./BIGARRAY.cpp) |
 | 8 | [XENRANK](https://www.codechef.com/problems/XENRANK) | C++​ | [XENRANK.cpp](./XENRANK.cpp) |
 | 9 | [UNQSHF](https://www.codechef.com/START255C/problems/UNQSHF) | C++​ | [UNQSHF.cpp](./UNQSHF.cpp) |
+| 10 | [ADDIS](https://www.codechef.com/START255C/problems/ADDIS) | C++​ | [ADDIS.cpp](./ADDIS.cpp) |
