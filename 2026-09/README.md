@@ -14,3 +14,4 @@
 | 8 | [XENRANK](https://www.codechef.com/problems/XENRANK) | C++​ | [XENRANK.cpp](./XENRANK.cpp) |
 | 9 | [UNQSHF](https://www.codechef.com/START255C/problems/UNQSHF) | C++​ | [UNQSHF.cpp](./UNQSHF.cpp) |
 | 10 | [ADDIS](https://www.codechef.com/START255C/problems/ADDIS) | C++​ | [ADDIS.cpp](./ADDIS.cpp) |
+| 11 | [BTCMINE](https://www.codechef.com/START255C/problems/BTCMINE) | C++​ | [BTCMINE.cpp](./BTCMINE.cpp) |
