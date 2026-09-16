@@ -17,3 +17,4 @@
 | 11 | [BTCMINE](https://www.codechef.com/START255C/problems/BTCMINE) | C++​ | [BTCMINE.cpp](./BTCMINE.cpp) |
 | 12 | [BUSSEAT](https://www.codechef.com/START256C/problems/BUSSEAT) | C++​ | [BUSSEAT.cpp](./BUSSEAT.cpp) |
 | 13 | [FIXEDPTS](https://www.codechef.com/START256C/problems/FIXEDPTS) | C++​ | [FIXEDPTS.cpp](./FIXEDPTS.cpp) |
+| 14 | [REDBLUE7](https://www.codechef.com/START256C/problems/REDBLUE7) | C++​ | [REDBLUE7.cpp](./REDBLUE7.cpp) |
