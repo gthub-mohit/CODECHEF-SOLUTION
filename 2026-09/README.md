@@ -18,3 +18,4 @@
 | 12 | [BUSSEAT](https://www.codechef.com/START256C/problems/BUSSEAT) | C++​ | [BUSSEAT.cpp](./BUSSEAT.cpp) |
 | 13 | [FIXEDPTS](https://www.codechef.com/START256C/problems/FIXEDPTS) | C++​ | [FIXEDPTS.cpp](./FIXEDPTS.cpp) |
 | 14 | [REDBLUE7](https://www.codechef.com/START256C/problems/REDBLUE7) | C++​ | [REDBLUE7.cpp](./REDBLUE7.cpp) |
+| 15 | [REDBLUE7](https://www.codechef.com/START256C/problems/REDBLUE7) | C++​ | [REDBLUE7.cpp](./REDBLUE7.cpp) |
