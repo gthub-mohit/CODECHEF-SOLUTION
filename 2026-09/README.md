@@ -16,3 +16,4 @@
 | 10 | [ADDIS](https://www.codechef.com/START255C/problems/ADDIS) | C++​ | [ADDIS.cpp](./ADDIS.cpp) |
 | 11 | [BTCMINE](https://www.codechef.com/START255C/problems/BTCMINE) | C++​ | [BTCMINE.cpp](./BTCMINE.cpp) |
 | 12 | [BUSSEAT](https://www.codechef.com/START256C/problems/BUSSEAT) | C++​ | [BUSSEAT.cpp](./BUSSEAT.cpp) |
+| 13 | [FIXEDPTS](https://www.codechef.com/START256C/problems/FIXEDPTS) | C++​ | [FIXEDPTS.cpp](./FIXEDPTS.cpp) |
