@@ -8,6 +8,7 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
+    cin>>i;
     while(i--){
         int n;
         cin>>n;
@@ -16,18 +17,18 @@
             cin>>arr[k];
         }
         sort(arr.begin(), arr.end());
-        int total = 0;
+        long long total = 0;
         for(int k=0;k<n;k++){
             total+=arr[k];
         }
-        int sr = 0;
-        int ans = 0;
+        long long sr = 0;
+        long long ans = 0;
         for(int k=0;k<n;k++){
             sr+=arr[k];
-            int cr = k+1;
-            int cb = n-cr;
-            int sb= total-sr;
-            int maxi=sr*cb+sb*cr;
+            long long cr = k+1;
+            long long cb = n-cr;
+            long long sb= total-sr;
+            long long maxi=sr*cb+sb*cr;
             ans = max(ans,maxi);
         }
         cout<<ans<< endl;
