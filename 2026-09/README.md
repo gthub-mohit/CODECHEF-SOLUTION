@@ -20,3 +20,4 @@
 | 14 | [REDBLUE7](https://www.codechef.com/START256C/problems/REDBLUE7) | C++​ | [REDBLUE7.cpp](./REDBLUE7.cpp) |
 | 15 | [REDBLUE7](https://www.codechef.com/START256C/problems/REDBLUE7) | C++​ | [REDBLUE7.cpp](./REDBLUE7.cpp) |
 | 16 | [FARSWAPLEX](https://www.codechef.com/START256C/problems/FARSWAPLEX) | C++​ | [FARSWAPLEX.cpp](./FARSWAPLEX.cpp) |
+| 17 | [PGNATK](https://www.codechef.com/START257C/problems/PGNATK) | C++​ | [PGNATK.cpp](./PGNATK.cpp) |
