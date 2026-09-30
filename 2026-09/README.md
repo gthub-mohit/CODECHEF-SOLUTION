@@ -26,3 +26,4 @@
 | 20 | [CHOCCUT](https://www.codechef.com/START258C/problems/CHOCCUT) | C++​ | [CHOCCUT.cpp](./CHOCCUT.cpp) |
 | 21 | [SEATING7](https://www.codechef.com/START258C/problems/SEATING7) | C++​ | [SEATING7.cpp](./SEATING7.cpp) |
 | 22 | [STAIRCASE7](https://www.codechef.com/START258C/problems/STAIRCASE7) | C++​ | [STAIRCASE7.cpp](./STAIRCASE7.cpp) |
+| 23 | [SHUFFLEEZ](https://www.codechef.com/START258C/problems/SHUFFLEEZ) | C++​ | [SHUFFLEEZ.cpp](./SHUFFLEEZ.cpp) |
