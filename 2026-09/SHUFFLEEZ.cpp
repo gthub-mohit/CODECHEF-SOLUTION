@@ -14,19 +14,19 @@ int main(){
     int i;
     cin>>i;
     while(i--){
-        int n,k;
-        cin>>n>>k;
-        for(int j=0;j<n;j++){
+        int n,z;
+        cin>>n>>z;
+        for(int k=0;k<n;k++){
             int x;
             cin>>x;
         }
         long long ans=1;
         long long mod=998244353;
-        for(int j=1;j<=k;j++){
-            ans=ans*j%mod;
-        }
-        for(int j=0;j<n-k;j++){
+        for(int k=1;k<=z;k++){
             ans=ans*k%mod;
+        }
+        for(int k=0;k<n-z;k++){
+            ans=ans*z%mod;
         }
         cout<<ans<<endl;
     }
