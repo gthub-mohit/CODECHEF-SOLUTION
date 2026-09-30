@@ -28,3 +28,4 @@
 | 22 | [STAIRCASE7](https://www.codechef.com/START258C/problems/STAIRCASE7) | C++​ | [STAIRCASE7.cpp](./STAIRCASE7.cpp) |
 | 23 | [SHUFFLEEZ](https://www.codechef.com/START258C/problems/SHUFFLEEZ) | C++​ | [SHUFFLEEZ.cpp](./SHUFFLEEZ.cpp) |
 | 24 | [SHUFFLEEZ](https://www.codechef.com/START258C/problems/SHUFFLEEZ) | C++​ | [SHUFFLEEZ.cpp](./SHUFFLEEZ.cpp) |
+| 25 | [SANDWICH7](https://www.codechef.com/START258C/problems/SANDWICH7) | C++​ | [SANDWICH7.cpp](./SANDWICH7.cpp) |
