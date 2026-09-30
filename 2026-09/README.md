@@ -23,3 +23,4 @@
 | 17 | [PGNATK](https://www.codechef.com/START257C/problems/PGNATK) | C++​ | [PGNATK.cpp](./PGNATK.cpp) |
 | 18 | [LITUP](https://www.codechef.com/START257C/problems/LITUP) | C++​ | [LITUP.cpp](./LITUP.cpp) |
 | 19 | [FALLPR](https://www.codechef.com/START257C/problems/FALLPR) | C++​ | [FALLPR.cpp](./FALLPR.cpp) |
+| 20 | [CHOCCUT](https://www.codechef.com/START258C/problems/CHOCCUT) | C++​ | [CHOCCUT.cpp](./CHOCCUT.cpp) |
