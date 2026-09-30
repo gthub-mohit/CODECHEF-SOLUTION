@@ -24,3 +24,4 @@
 | 18 | [LITUP](https://www.codechef.com/START257C/problems/LITUP) | C++​ | [LITUP.cpp](./LITUP.cpp) |
 | 19 | [FALLPR](https://www.codechef.com/START257C/problems/FALLPR) | C++​ | [FALLPR.cpp](./FALLPR.cpp) |
 | 20 | [CHOCCUT](https://www.codechef.com/START258C/problems/CHOCCUT) | C++​ | [CHOCCUT.cpp](./CHOCCUT.cpp) |
+| 21 | [SEATING7](https://www.codechef.com/START258C/problems/SEATING7) | C++​ | [SEATING7.cpp](./SEATING7.cpp) |
