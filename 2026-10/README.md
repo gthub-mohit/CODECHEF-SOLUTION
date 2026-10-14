@@ -8,3 +8,4 @@
 | 2 | [WRSTP](https://www.codechef.com/START259C/problems/WRSTP) | C++​ | [WRSTP.cpp](./WRSTP.cpp) |
 | 3 | [ANOTSTR](https://www.codechef.com/START259C/problems/ANOTSTR) | C++​ | [ANOTSTR.cpp](./ANOTSTR.cpp) |
 | 4 | [BLUEBLACK](https://www.codechef.com/START260C/problems/BLUEBLACK) | C++​ | [BLUEBLACK.cpp](./BLUEBLACK.cpp) |
+| 5 | [CHANGEONE7](https://www.codechef.com/START260C/problems/CHANGEONE7) | C++​ | [CHANGEONE7.cpp](./CHANGEONE7.cpp) |
