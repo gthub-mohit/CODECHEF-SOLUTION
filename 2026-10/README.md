@@ -12,3 +12,4 @@
 | 6 | [WATERMOVE2](https://www.codechef.com/START260C/problems/WATERMOVE2) | C++​ | [WATERMOVE2.cpp](./WATERMOVE2.cpp) |
 | 7 | [WATERMOVE](https://www.codechef.com/START260C/problems/WATERMOVE) | C++​ | [WATERMOVE.cpp](./WATERMOVE.cpp) |
 | 8 | [MERGEHD](https://www.codechef.com/START260C/problems/MERGEHD) | C++​ | [MERGEHD.cpp](./MERGEHD.cpp) |
+| 9 | [MERGEHD](https://www.codechef.com/START260C/problems/MERGEHD) | C++​ | [MERGEHD.cpp](./MERGEHD.cpp) |
