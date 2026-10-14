@@ -8,6 +8,7 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
+using namespace std;
 int main(){
     int i;
     cin>>i;
@@ -23,7 +24,7 @@ int main(){
         ans[n]=1;
         for(int k=1;k<n;k++){
             if(arr[k-1]<arr[k]){
-                ans[k]=1;
+                ans[k]=2;
             }
         }
         for(int k=0;k<=n;k++){
