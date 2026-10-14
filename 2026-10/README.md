@@ -11,3 +11,4 @@
 | 5 | [CHANGEONE7](https://www.codechef.com/START260C/problems/CHANGEONE7) | C++​ | [CHANGEONE7.cpp](./CHANGEONE7.cpp) |
 | 6 | [WATERMOVE2](https://www.codechef.com/START260C/problems/WATERMOVE2) | C++​ | [WATERMOVE2.cpp](./WATERMOVE2.cpp) |
 | 7 | [WATERMOVE](https://www.codechef.com/START260C/problems/WATERMOVE) | C++​ | [WATERMOVE.cpp](./WATERMOVE.cpp) |
+| 8 | [MERGEHD](https://www.codechef.com/START260C/problems/MERGEHD) | C++​ | [MERGEHD.cpp](./MERGEHD.cpp) |
