@@ -15,3 +15,4 @@
 | 9 | [MERGEHD](https://www.codechef.com/START260C/problems/MERGEHD) | C++​ | [MERGEHD.cpp](./MERGEHD.cpp) |
 | 10 | [DIFFGCD](https://www.codechef.com/START260C/problems/DIFFGCD) | C++​ | [DIFFGCD.cpp](./DIFFGCD.cpp) |
 | 11 | [BETWEEN](https://www.codechef.com/START261C/problems/BETWEEN) | C++​ | [BETWEEN.cpp](./BETWEEN.cpp) |
+| 12 | [EXSHAKE](https://www.codechef.com/START261C/problems/EXSHAKE) | C++​ | [EXSHAKE.cpp](./EXSHAKE.cpp) |
