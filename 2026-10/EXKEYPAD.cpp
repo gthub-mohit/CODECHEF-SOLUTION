@@ -15,21 +15,24 @@ int main(){
     int i;
     cin>>i;
     while(i--){
-        long long n,d;
-        cin>>n>>d;
+        string s;
+        int d;
+        cin>>s>>d;
         while(1){
-            string s=to_string(n);
-            bool found=false;
-            for(int k=0;k<s.size();k++){
-                if(s[k]-'0'==d){
-                    found=true;
+            int k=0;
+            while(k<s.size() && s[k]-'0'!=d)k++;
+            if(k==s.size())break;
+            int j=k;
+            while(j>=0){
+                int x=s[j]-'0'+1;
+                while(x<=9 && x==d)x++;
+                if(x<=9){
+                    s[j]=char('0'+x);
+                    for(int z=j+1;z<s.size();z++){
+                        int y=0;
+                        if(y==d)y++;
+                        s[z]=char('0'+y);
+                    }
                     break;
                 }
-            }
-            if(found==false)break;
-            n++;
-        }
-        cout<<n<<endl;
-    }
-    return 0;
-}
+                j--;
