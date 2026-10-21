@@ -17,3 +17,4 @@
 | 11 | [BETWEEN](https://www.codechef.com/START261C/problems/BETWEEN) | C++​ | [BETWEEN.cpp](./BETWEEN.cpp) |
 | 12 | [EXSHAKE](https://www.codechef.com/START261C/problems/EXSHAKE) | C++​ | [EXSHAKE.cpp](./EXSHAKE.cpp) |
 | 13 | [EXQUIZ](https://www.codechef.com/START261C/problems/EXQUIZ) | C++​ | [EXQUIZ.cpp](./EXQUIZ.cpp) |
+| 14 | [EXKEYPAD](https://www.codechef.com/START261C/problems/EXKEYPAD) | C++​ | [EXKEYPAD.cpp](./EXKEYPAD.cpp) |
