@@ -20,3 +20,4 @@
 | 14 | [EXKEYPAD](https://www.codechef.com/START261C/problems/EXKEYPAD) | C++​ | [EXKEYPAD.cpp](./EXKEYPAD.cpp) |
 | 15 | [EXKEYPAD](https://www.codechef.com/START261C/problems/EXKEYPAD) | C++​ | [EXKEYPAD.cpp](./EXKEYPAD.cpp) |
 | 16 | [EXKEYPAD](https://www.codechef.com/START261C/problems/EXKEYPAD) | C++​ | [EXKEYPAD.cpp](./EXKEYPAD.cpp) |
+| 17 | [EXPRIZE](https://www.codechef.com/START261C/problems/EXPRIZE) | C++​ | [EXPRIZE.cpp](./EXPRIZE.cpp) |
