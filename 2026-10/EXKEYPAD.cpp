@@ -8,29 +8,27 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
     int i;
     cin>>i;
     while(i--){
-        long long n;
-        int d;
+        long long n,d;
         cin>>n>>d;
-        while(true){
-            long long temp = n;
-            bool found = false;
-            while(temp > 0){
-                if(temp % 10 == d){
-                    found = true;
+        while(1){
+            string s=to_string(n);
+            bool found=false;
+            for(int k=0;k<s.size();k++){
+                if(s[k]-'0'==d){
+                    found=true;
                     break;
                 }
-                temp /= 10;
             }
-            if(!found) break;
+            if(found==false)break;
             n++;
         }
-
         cout<<n<<endl;
     }
     return 0;
