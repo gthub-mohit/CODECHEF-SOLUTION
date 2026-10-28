@@ -8,27 +8,26 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
-    int i;
-    cin>>i;
-    while(i--){
-        int n;
         cin>>n;
         vector<int> arr(n);
-        for(int k=0;k<n;k++){
-            cin>>arr[k];
+        for(int k=0;k<n;k++) cin>>arr[k];
+        int count=0;
+        for(int k=0;k<n-1;k++){
+            if(arr[k]==arr[k+1]) count++;
         }
-        int maxi=0;
-        for(int l=0;l<n;l++){
-            for(int r=l;r<n;r++){
-                int count=0;
-                for(int k=0;k<n-1;k++){
-                    int a=arr[k];
-                    int b=arr[k+1];
-                    if(k>=l && k<=r)a++;
-                    if(k+1>=l && k+1<=r)b++;
-                    if(a==b)count++;
+        int maxi=count;
+        for(int k=0;k<n;k++){
+            for(int z=k;z<n;z++){
+                int x=count;
+                if(k>0){
+                    if(arr[k-1]==arr[k]) x--;
+                    else if(arr[k-1]==arr[k]+1) x++;
                 }
-                maxi=max(maxi,count);
+                if(z<n-1){
+                    if(arr[z]==arr[z+1]) x--;
+                    else if(arr[z]+1==arr[z+1]) x++;
+                }
+                maxi=max(maxi,x);
             }
         }
         cout<<maxi<<endl;
