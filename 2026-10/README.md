@@ -24,3 +24,4 @@
 | 18 | [RHYDOOR](https://www.codechef.com/START262C/problems/RHYDOOR) | C++​ | [RHYDOOR.cpp](./RHYDOOR.cpp) |
 | 19 | [ALARMM](https://www.codechef.com/START262C/problems/ALARMM) | C++​ | [ALARMM.cpp](./ALARMM.cpp) |
 | 20 | [EQLZR](https://www.codechef.com/START262C/problems/EQLZR) | C++​ | [EQLZR.cpp](./EQLZR.cpp) |
+| 21 | [EQLZR](https://www.codechef.com/START262C/problems/EQLZR) | C++​ | [EQLZR.cpp](./EQLZR.cpp) |
