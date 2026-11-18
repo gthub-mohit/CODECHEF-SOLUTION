@@ -8,9 +8,6 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
-#include<bits/stdc++.h>
-using namespace std;
-int main(){
     int i;
     cin>>i;
     while(i--){
@@ -25,14 +22,16 @@ int main(){
         }
         if(l>=r){
             cout<<"NO"<<endl;
-            continue;
         }
-        int x=arr[l];
-        int y=arr[r];
-        int a=0,b=n-1;
-        while(a<b){
-            if(arr[a]==x){
-                a++;
-                continue;
-            }
-            if(arr[b]==x){
+        else if(!check(arr,arr[l])){
+            cout<<"YES "<<arr[l]<<endl;
+        }
+        else if(!check(arr,arr[r])){
+            cout<<"YES "<<arr[r]<<endl;
+        }
+        else{
+            cout<<"NO"<<endl;
+        }
+    }
+    return 0;
+}
