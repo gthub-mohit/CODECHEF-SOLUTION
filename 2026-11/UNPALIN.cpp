@@ -8,30 +8,31 @@
  ╚═══════════════════════════════════════════════════════════════════════╝
  */
 
+    while(i<j){
+        if(v[i]!=v[j])return false;
+        i++;
+        j--;
+    }
+
+    return true;
+}
+int main(){
     int i;
     cin>>i;
     while(i--){
         int n;
         cin>>n;
+
         vector<int> arr(n);
-        for(int k=0;k<n;k++)cin>>arr[k];
+        vector<int> vis(n+1,0);
+
+        for(int k=0;k<n;k++){
+            cin>>arr[k];
+            vis[arr[k]]=1;
+        }
+
         int l=0,r=n-1;
+
         while(l<r && arr[l]==arr[r]){
             l++;
             r--;
-        }
-        if(l>=r){
-            cout<<"NO"<<endl;
-        }
-        else if(!check(arr,arr[l])){
-            cout<<"YES "<<arr[l]<<endl;
-        }
-        else if(!check(arr,arr[r])){
-            cout<<"YES "<<arr[r]<<endl;
-        }
-        else{
-            cout<<"NO"<<endl;
-        }
-    }
-    return 0;
-}
