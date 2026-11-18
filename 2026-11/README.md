@@ -5,3 +5,4 @@
 | # | Problem | Language | Solution |
 |---|---------|----------|----------|
 | 1 | [HALFPIE](https://www.codechef.com/START265C/problems/HALFPIE) | C++​ | [HALFPIE.cpp](./HALFPIE.cpp) |
+| 2 | [SQUASH](https://www.codechef.com/START265C/problems/SQUASH) | C++​ | [SQUASH.cpp](./SQUASH.cpp) |
