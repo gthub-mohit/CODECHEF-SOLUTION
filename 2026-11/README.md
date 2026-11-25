@@ -13,3 +13,4 @@
 | 7 | [TAPTAP](https://www.codechef.com/START265C/problems/TAPTAP) | C++​ | [TAPTAP.cpp](./TAPTAP.cpp) |
 | 8 | [EXACTKMOVES](https://www.codechef.com/START266C/problems/EXACTKMOVES) | C++​ | [EXACTKMOVES.cpp](./EXACTKMOVES.cpp) |
 | 9 | [DBLDROP](https://www.codechef.com/START266C/problems/DBLDROP) | C++​ | [DBLDROP.cpp](./DBLDROP.cpp) |
+| 10 | [ROYALTOUR](https://www.codechef.com/START266C/problems/ROYALTOUR) | C++​ | [ROYALTOUR.cpp](./ROYALTOUR.cpp) |
