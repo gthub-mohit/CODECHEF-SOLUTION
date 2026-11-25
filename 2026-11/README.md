@@ -14,3 +14,4 @@
 | 8 | [EXACTKMOVES](https://www.codechef.com/START266C/problems/EXACTKMOVES) | C++​ | [EXACTKMOVES.cpp](./EXACTKMOVES.cpp) |
 | 9 | [DBLDROP](https://www.codechef.com/START266C/problems/DBLDROP) | C++​ | [DBLDROP.cpp](./DBLDROP.cpp) |
 | 10 | [ROYALTOUR](https://www.codechef.com/START266C/problems/ROYALTOUR) | C++​ | [ROYALTOUR.cpp](./ROYALTOUR.cpp) |
+| 11 | [PLACEROOKS](https://www.codechef.com/START266C/problems/PLACEROOKS) | C++​ | [PLACEROOKS.cpp](./PLACEROOKS.cpp) |
