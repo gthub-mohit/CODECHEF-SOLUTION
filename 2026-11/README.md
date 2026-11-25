@@ -11,3 +11,4 @@
 | 5 | [UNPALIN](https://www.codechef.com/START265C/problems/UNPALIN) | C++​ | [UNPALIN.cpp](./UNPALIN.cpp) |
 | 6 | [UNPALIN](https://www.codechef.com/START265C/problems/UNPALIN) | C++​ | [UNPALIN.cpp](./UNPALIN.cpp) |
 | 7 | [TAPTAP](https://www.codechef.com/START265C/problems/TAPTAP) | C++​ | [TAPTAP.cpp](./TAPTAP.cpp) |
+| 8 | [EXACTKMOVES](https://www.codechef.com/START266C/problems/EXACTKMOVES) | C++​ | [EXACTKMOVES.cpp](./EXACTKMOVES.cpp) |
